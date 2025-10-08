@@ -77,9 +77,9 @@ The statement could be made even better by stating the date you checked the numb
 
 **Example of best use**  
 
-*\[citation of paper\] is my top performing paper according to Scopus on \[date you checked\] and has a field-weighted citation index of 4.3 (1 being average). It has been cited by \[policy document\]. Following its publication I have been asked by several news agencies to provide commentary on similar news stories thereby contributing to knowledge exchange and public engagement.*  
+*\[citation of paper\] is my top performing paper according to Scopus on \[date you checked\] it has been cited 150 times and has a field-weighted citation index of 4.3 (1 being average). It has been cited by \[policy document\]. Following its publication I have been asked by several news agencies to provide commentary on similar news stories thereby contributing to knowledge exchange and public engagement.*  
 
-Why this is good – You’ve given a source and date for your metric, you’ve used a normalised metric which makes for a fairer comparison. You’ve related your article to real world impact and engagement. 
+Why this is good – You’ve given a source and date for your metrics, you've used multiple metrices and you’ve used a normalised metric which makes for a fairer comparison. You’ve related your article to real world impact and engagement. 
 
 ### **How to – Identifying your 'best' publications** 
 
