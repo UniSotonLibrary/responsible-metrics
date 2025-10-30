@@ -1,2 +1,2 @@
 This course was produced in R Studio. It is made available under a CC BY Licence and so may be reused and adapted.
-RRM.Github.Personalisation.Readme.v2.docx includes the changes that you would need to make the resource personal to your own institution. For example where University Southampton specific content is such as email or links to University policy. https://github.com/UniSotonLibrary/responsible-metrics/blob/main/RRM.Github.Personalisation.Readme.v2.docx
+RRM.Github.Personalisation.Readme.v1.1Oct25.docx includes the changes that you would need to make the resource personal to your own institution. For example where University Southampton specific content is such as email or links to University policy. 
