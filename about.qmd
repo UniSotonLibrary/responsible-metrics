@@ -21,7 +21,8 @@ Update 1.1 October 2025
 Section 3; 	
   -   Updates to the Way’s to use metrics & examples section to improve clarity 
   -   Adding a link to a test your knowledge quiz
-Section 4 -	Adding a link to a test your knowledge quiz
+Section 4;	Adding a link to a test your knowledge quiz
+
 
 
 
