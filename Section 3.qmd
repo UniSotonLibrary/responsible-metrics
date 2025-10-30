@@ -57,7 +57,7 @@ Contact the [metrics service](https://library.soton.ac.uk/bibliometrics/services
 -   You could use metrics to evidence statements you make about your research.
 -   You may be asked to provide a list such as your 'top' or 'best' papers.
 
-If you use metrics you need to use them responsibly, for example, using the correct type of metric for your purpose. 
+If you use metrics you need to use them responsibly.  There are many different metrics, for many different purposes, from many different sources.  When you make your assessment you should use the most appropriate metric according to your needs. Below you'll find examples (both good and bad) of how some of these metrics could be used to make statements about your research.
 
 ### **Examples** 
 
@@ -104,6 +104,8 @@ Thank you for taking the time to complete this section of the course. If you nee
 Complete further sections
 
 -   Section 4 - Assessing people using metrics - Section 4 is an optional part of this course for people who will take part in the assessment of people such as those on recruitment panels
+
+Test your [knowledge](https://forms.office.com/e/2wiFXSSLSG){target="_blank"}
 
 Read the [University responsible metrics policy](https://www.southampton.ac.uk/about/governance/regulations-policies/policies/responsible-research-metrics){target="_blank"}
 
