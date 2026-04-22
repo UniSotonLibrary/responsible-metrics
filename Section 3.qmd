@@ -31,7 +31,7 @@ You can obtain metrics by using an indexing database such as:
 
 -   [Scopus](https://www.scopus.com/){target="_blank"}. ^+^ 
 -   [Web of Science](https://webofknowledge.com/WOS){target="_blank"}. ^+^
--   [Dimensions](https://app.dimensions.ai/discover/publication){target="_blank"}.\*
+-   [Dimensions](https://app.dimensions.ai/discover/publication){target="_blank"}.^+^
 -   [Google Scholar](http://scholar.google.co.uk/citations?view_op=top_venues&hl=en){target="_blank"}.\*
 -   [Open Alex](https://openalex.org/){target="_blank"}.\*
 
